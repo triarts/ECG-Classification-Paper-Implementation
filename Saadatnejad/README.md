@@ -3,4 +3,4 @@ Description: This is implementation of paper from S.Saadatnejad et al. "LSTM-Bas
   * They also have source code and preprocessed dataset for dual lead: http://lis.ee.sharif.edu/pub/2020_jbhi_soh/
   
 ### TODO next
-- [x] Add code for MITBIH single-lead preprocessing method
+- [ ] Add code for MITBIH single-lead preprocessing method
